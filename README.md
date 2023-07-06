@@ -1,4 +1,5 @@
 # Chat-Room
+
 This is a simple chat room application implemented in Python. The application allows multiple users to connect to a server and chat with each other in real-time.
 
 
